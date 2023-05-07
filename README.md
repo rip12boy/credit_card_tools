@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix OBB xywh-angle concatenation bug (#7404)
