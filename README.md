@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
