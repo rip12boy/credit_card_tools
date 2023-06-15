@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Docs updates and improvements (#8183)
