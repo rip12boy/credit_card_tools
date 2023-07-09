@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Cleanup Docs languages (#7865)
