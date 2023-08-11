@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Allow Annotator PIL.Image inputs (#8397)
