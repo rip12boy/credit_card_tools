@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
