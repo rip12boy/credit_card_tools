@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
