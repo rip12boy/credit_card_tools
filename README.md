@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update inference.cpp (bug) (#7279)
