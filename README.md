@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix PIL show() and save() (#8202)
