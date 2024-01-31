@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Elaborate Train and Predict mode docs arguments (#8137)
