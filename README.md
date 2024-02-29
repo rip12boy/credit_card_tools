@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Expand Model method type hinting (#8279)
