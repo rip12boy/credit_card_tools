@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
