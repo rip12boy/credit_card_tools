@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
