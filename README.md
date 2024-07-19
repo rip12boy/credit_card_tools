@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Docs partial mdformat improvements (#7378)
