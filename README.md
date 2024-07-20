@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add CoreML Docs Integrations Page (#8063)
