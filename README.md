@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add KaTeX support + updates to YOLOv9 model page (#8531)
