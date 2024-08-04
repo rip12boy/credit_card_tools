@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
