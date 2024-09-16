@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
