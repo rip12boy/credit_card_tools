@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
