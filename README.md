@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update Discord and Contributing Guide URLs (#9270)
