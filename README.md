@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
