@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix TFLite INT8 for OBB (#7989)
